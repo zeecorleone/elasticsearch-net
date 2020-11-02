@@ -31,7 +31,7 @@ Please read the getting started guide for both <<elasticsearch-net,Elasticsearch
 [float]
 === Questions, bugs, comments, requests
 
-All of these are more then welcome on the {github}/issues[github issues pages]! We try to at least reply within the same day.
+All of these are more than welcome on the {github}/issues[github issues pages]! We try to at least reply within the same day.
 
 We also monitor question tagged with {stackoverflow}/questions/tagged/nest['nest' on stackoverflow] or 
 {stackoverflow}/questions/tagged/elasticsearch-net['elasticsearch-net' on stackoverflow], as well as https://discuss.elastic.co[discussions on our discourse site]
